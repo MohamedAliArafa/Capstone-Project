@@ -18,7 +18,10 @@ Capstone_Stage1.pdf
 9. Describe how you will implement Google Play Services.
 10. Next Steps: Required Tasks
 * Task 1: Project Setup
-* Task 2: Implement UI for Each Activity and Fragment
-* Task 3: Your Next Task
-* Task 4: Your Next Task
-* Task 5: Your Next Task
+* Task 2: Implement Libraries
+* Task 3: Implement UI for Each Activity and Fragment (Phone)
+* Task 4: Implement UI for Each Activity and Fragment (Tablet)
+* Task 5: Connecting to the API
+* Task 6: Populating The Data to The UI
+* Task 7: Unit Test and UX Testing
+
